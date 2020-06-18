@@ -1,4 +1,4 @@
-# frontendlinefollower
+# datavisualization
 
 ## Project setup
 ```
